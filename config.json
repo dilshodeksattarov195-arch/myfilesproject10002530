@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercrocess",
+        "uuid": 4708330,
+        "checksum": "786qk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
